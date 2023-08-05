@@ -1,2 +1,1 @@
-# first-repo-gfg
-first-repo-gfg
+This is My First Repo
